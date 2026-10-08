@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.tendacriativa.com.br/sitemap.xml
